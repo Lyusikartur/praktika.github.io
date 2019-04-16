@@ -1,0 +1,28 @@
+.header{
+	
+	&__ul{
+		display: flex;
+	}
+	&__li{
+		margin-left: 120px;
+		display: flex;
+		margin-top: 25px;
+	}
+	&__a{
+		font-size: 29px;
+		color: #000;
+		text-decoration: none;
+		font-family: 'Pacifico', cursive;
+	}
+	&__a:hover{
+ 		color: #fff;
+	}
+	&__mrsd{
+		width: 260px;
+		height: 80px;
+		margin: 20px;
+		margin-left: 30px;
+	}
+	background: url(../img/header.png)no-repeat  top / cover;
+
+}

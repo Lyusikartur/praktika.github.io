@@ -1,0 +1,33 @@
+.portfolio{
+	background: url("../img/header.png") no-repeat top/cover;
+	margin-top: 3px;
+	&__img{
+		width: 100%;
+		margin-top: 30px;
+		border-radius: 20px;
+	}
+	&__h1{
+		font-family: 'Pacifico', cursive;
+		font-size: 40px;
+		text-align: center;
+	}
+	&__p1{
+		font-size: 25px;
+		font-family: 'Roboto';
+		text-align: center;
+
+	}
+	&__h3{
+		font-family: 'Pacifico', cursive;
+		font-size: 40px;
+		text-align: center;
+		margin-top: -15px;
+	}
+	&__p2{
+			font-size: 25px;
+		font-family: 'Roboto';
+		text-align: center;
+		margin-top: -15px;
+
+	}
+}

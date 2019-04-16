@@ -1,0 +1,68 @@
+.title{
+	background: url("../img/header.png") no-repeat top/cover;
+	margin-top: 3px;
+	&__img1{
+		width:100%;
+		height: 250px;
+		
+		border-radius: 30px;
+	}
+	&__img2{
+		width:100%;
+		height: 250px;
+		
+		border-radius: 30px;
+	
+	}
+	&__blog2{
+		margin-top: 25px;
+		float: right;
+		background-color: #2F4F4F;
+		border-radius: 30px;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+	}
+	&__blog1{
+		margin-top: 25px;
+		background-color: #2F4F4F;
+		border-radius: 30px;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+
+	}
+	&__h1{
+		font-family: 'Pacifico', cursive;
+		font-size: 35px;
+		text-align: center;
+		margin-top: 5px;
+	}
+	&__p{
+		font-size: 20px;
+		font-family: 'Roboto';
+		text-align: center;
+		color: #fff;
+		margin-top: -10px;
+	}
+	&__button{
+		margin-left: 220px;
+		margin-bottom: 25px;
+		font-family: 'Pacifico', cursive;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		font-size: 20px;
+		background-color: #5F9EA0;
+		border-radius: 20px;
+		padding-right: 20px;
+		padding-left: 20px;
+		border:none;
+		text-decoration: none;
+		color: #000;
+
+
+	}
+	&__button:hover{
+		color: #fff;
+	}
+	
+	
+}
